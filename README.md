@@ -59,11 +59,16 @@ Check out my [portfolio website](https://aminebenkirane.dev) for a detailed over
 
 ---
 
+
 ## 🏆 Certifications
-Here are some of the courses I’ve completed:
+Here are some of the certifications I’ve completed:
+- **Harvard Python Programming Certificate**.
+- **Harvard SQL for Databases Certificate**.
+- **Harvard Artificial Intelligence Certificate**.
+- **Harvard Data Science Certificate**.
+- **Stanford's Machine Learning Specialization** (Andrew Ng, Coursera).
+- **Andrew Ng's Deep Learning Specialization** (1/5 completed).
 - **Supervised Machine Learning: Regression and Classification** (DeepLearning.AI & Stanford University).
-- Working towards the **Deep Learning Specialization**.
-- Exploring Kaggle challenges to strengthen practical knowledge.
 
 ---
 
