@@ -55,7 +55,7 @@ I’m constantly learning and evolving! Currently, I’m focusing on:
 ---
 
 ## ✨ Portfolio Highlights
-Check out my [portfolio website](#) for a detailed overview of my projects, certifications, and achievements!
+Check out my [portfolio website](https://aminebenkirane.dev) for a detailed overview of my projects, certifications, and achievements!
 
 ---
 
@@ -68,9 +68,9 @@ Here are some of the courses I’ve completed:
 ---
 
 ## 🌐 Connect With Me
-- **LinkedIn**: [Your LinkedIn](#)
-- **GitHub**: [github.com/your-username](#)
-- **Email**: [your-email@example.com](#)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/amine-benkirane-ml/)
+- **GitHub**: [github.com/aminebenkii](https://github.com/aminebenkii)
+- **Email**: [aminebenkirane.pro@gmail.com](mailto:aminebenkirane.pro@gmail.com)
 
 ---
 
