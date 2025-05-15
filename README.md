@@ -1,10 +1,14 @@
 # Welcome to My GitHub Page!
 
 ## 🌟 About Me
-Hello! I'm a passionate **Machine Learning and AI enthusiast** transitioning into the exciting world of tech. My focus areas include:
-- **Machine Learning**: Regression, classification, and neural networks.
-- **Deep Learning**: From feedforward networks to RNNs and transformers.
-- **Natural Language Processing**: Building models for sentiment analysis, text generation, and more.
+
+Hello! I’m a **hands-on Machine Learning and AI developer** working across two main areas:
+
+- 🧮 **Data Science & Predictive Modeling**: I solve real-world problems using regression, classification, and anomaly detection, building **clean, production-ready pipelines** that actually deliver results.  
+
+- 🤖 **AI Agents & Chatbots**: I design and build intelligent assistants and **RAG-based systems**, handling everything from retrieval logic to full deployment in real-world environments.
+
+I don’t just stop at coding models—I handle the entire lifecycle: **Dockerizing applications**, deploying them on **Azure or GCP**, and ensuring they run reliably in production.  
 
 I aim to leverage my skills to create impactful projects while sharing my learning journey.
 
