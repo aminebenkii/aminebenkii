@@ -15,46 +15,56 @@ I aim to leverage my skills to create impactful projects while sharing my learni
 ---
 
 ## 🚀 Projects
-Here are some of my most notable projects:
 
-### 🎾 Tennis Match Outcome Prediction
-- **Description**: Predicts the outcome of tennis matches using historical data.
-- **Tech Stack**: Python, scikit-learn, Pandas.
-- **[View Repository](#)**
+Here are some of the projects I’m actively working on and showcasing:
 
-### 🔍 Credit Card Fraud Detection
-- **Description**: Identifies fraudulent transactions using classic feedforward neural networks.
-- **Tech Stack**: Python, NumPy, Pandas, Matplotlib.
-- **[View Repository](#)**
+### ✈️ Flight Price Analysis Bot  
+- **Description**: AI-powered bot that monitors and analyzes flight prices using real-time API data to identify optimal booking windows and cost-saving opportunities.  
+- **Highlights**: API consumption, real-time analysis, and actionable travel recommendations.  
+- **Tech Stack**: Python, FastAPI, Pandas, REST APIs.  
+- **[View Repository](#)**  
 
-### ✨ Neural Network on MNIST Dataset
-- **Description**: Implements a neural network from scratch to classify handwritten digits.
-- **Tech Stack**: Python, NumPy.
-- **[View Repository](#)**
+### 🛫 Airline Customer Service Q&A Bot  
+- **Description**: A Retrieval-Augmented Generation (RAG) chatbot designed for airline customer support. Handles structured Q&A and multi-turn conversations to assist users efficiently.  
+- **Highlights**: Context-aware responses, retrieval optimization, and multi-language support.  
+- **Tech Stack**: Python, LangChain, ChromaDB, FastAPI, Docker.  
+- **[View Repository](#)**  
 
-### 🤖 RAG Chatbot with Knowledge Graph
-- **Description**: A Retrieval-Augmented Generation chatbot built using Neo4j and local language models.
-- **Tech Stack**: LangChain, Neo4j, Python.
-- **[View Repository](#)**
+### ⚖️ Legal Chatbot *(Work In Progress)*  
+- **Description**: Advanced legal assistant capable of processing complex legal documents and performing semantic search over Moroccan law. Supports queries in both French and Darija.  
+- **Highlights**: Custom knowledge graph, multilingual support, and domain-specific retrieval.  
+- **Tech Stack**: Python, Neo4j, LangChain, FastAPI.  
+- **[View Repository](#)**  
+
+### 💼 AI Career Agent *(New Project)*  
+- **Description**: An AI-powered job search assistant that fetches job postings, summarizes descriptions with LLMs, and sends personalized job alerts. Includes a job application tracker with status updates.  
+- **Highlights**: Job scraping, SQL storage, LLM summarization, personalized notifications, and application tracking dashboard.  
+- **Tech Stack**: Python, FastAPI, SQL, LangChain, Docker.  
+- **[View Repository](#)**  
 
 ---
 
 ## 🛠️ Skills
 Here are some of the tools and technologies I work with:
 
-- **Languages**: Python, SQL.
-- **Libraries & Frameworks**: NumPy, Pandas, scikit-learn, Matplotlib.
-- **Deep Learning**: Neural Networks, RNNs, Transformers.
-- **Tools**: Git, Jupyter Notebook, LangChain.
-- **Platforms**: Kaggle, GitHub Pages.
+- **Programming Languages**: Python, SQL  
+- **Data Science & Analysis**: Pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn  
+- **Deep Learning**: Custom Neural Networks, RNNs, Transformers, OpenAI API
+- **NLP & LLMs**: Local running, ollama, Unsloth Finetuning.
+- **AI Agents & RAG Systems**: LangChain, ChromaDB, Neo4j, FAISS  
+- **MLOps & Deployment**: Docker, FastAPI, Azure Cloud, GCP, Git  
+- **Experiment Tracking & Visualization**: MLflow, Jupyter Notebook  
+- **Platforms & Competitions**: Kaggle, GitHub Pages  
 
 ---
 
-## 📈 What I’m Learning
-I’m constantly learning and evolving! Currently, I’m focusing on:
-- Deep Learning for NLP: RNNs, GRUs, and Transformers.
-- Building practical projects for my portfolio.
-- Creating efficient local AI models and RAG systems.
+
+## 📈 What I’m Focused On Right Now  
+
+- 🤖 **Building AI Agents That Work in the Real World**: From intelligent chatbots to RAG systems, taking them from concept to full deployment.  
+- 🚀 **Handling Full Project Lifecycles**: API development, containerization with Docker, cloud deployment on Azure and GCP—getting things running in production.  
+- 📚 **Optimizing AI Solutions for Real Use Cases**: Focusing on fast, efficient, and practical AI models that solve real problems, not just theoretical demos.  
+
 
 ---
 
