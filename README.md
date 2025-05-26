@@ -31,16 +31,18 @@ Here are some of the projects I’m actively working on and showcasing:
 - **Tech Stack**: Python, LangChain, ChromaDB, FastAPI, Docker.  
 - **[View Repository](#)**  
 
+
 ### ⚖️ Legal Chatbot *(Work In Progress)*  
 - **Description**: Advanced legal assistant capable of processing complex legal documents and performing semantic search over Moroccan law. Supports queries in both French and Darija.  
 - **Highlights**: Custom knowledge graph, multilingual support, and domain-specific retrieval.  
 - **Tech Stack**: Python, Neo4j, LangChain, FastAPI.  
 - **[View Repository](#)**  
 
-### 💼 AI Career Agent *(New Project)*  
-- **Description**: An AI-powered job search assistant that fetches job postings, summarizes descriptions with LLMs, and sends personalized job alerts. Includes a job application tracker with status updates.  
-- **Highlights**: Job scraping, SQL storage, LLM summarization, personalized notifications, and application tracking dashboard.  
-- **Tech Stack**: Python, FastAPI, SQL, LangChain, Docker.  
+
+### 🎬 Movie Discovery Agent *(New Project)*  
+- **Description**: Smart assistant that helps users discover new movies they haven’t seen yet, based on flexible, natural language queries.  
+- **Highlights**: User accounts, seen/unseen tracking, advanced filtering (e.g. "thrillers after 2020 with IMDb > 7"), and optional chatbot interface.  
+- **Tech Stack**: Python, FastAPI, SQL, TMDb + OMDb APIs, Docker.  
 - **[View Repository](#)**  
 
 ---
