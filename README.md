@@ -18,11 +18,12 @@ I aim to leverage my skills to create impactful projects while sharing my learni
 
 Here are some of the projects I’m actively working on and showcasing:
 
-### ✈️ Flight Price Analysis Bot  
-- **Description**: AI-powered bot that monitors and analyzes flight prices using real-time API data to identify optimal booking windows and cost-saving opportunities.  
-- **Highlights**: API consumption, real-time analysis, and actionable travel recommendations.  
-- **Tech Stack**: Python, FastAPI, Pandas, REST APIs.  
+### ✈️ Flight Deals Fetcher Chatbot  
+- **Description**: An AI-powered conversational assistant that helps you find the **cheapest flights** based on your **flexible dates**, **preferred duration**, and destination. Just say where and when—one-way or return—and it scans real-time data to give you the best options.  
+- **Highlights**: Real-time flight data scraping, flexible date & duration handling, actionable travel suggestions, multi-language support.  
+- **Tech Stack**: Python, FastAPI, openAI, Tailwind CSS (frontend), Google Flights scraping layer, Docker.  
 - **[View Repository](#)**  
+
 
 ### 🛫 Airline Customer Service Q&A Bot  
 - **Description**: A Retrieval-Augmented Generation (RAG) chatbot designed for airline customer support. Handles structured Q&A and multi-turn conversations to assist users efficiently.  
