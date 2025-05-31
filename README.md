@@ -32,6 +32,7 @@ Conversational travel agent that finds the best flight options based on user pre
 - 🎥 **[View Demo](#)**  
 
 
+
 ## ⚖️ Legal Chatbot (RAG + Vector DB)
 AI assistant for legal questions based on Moroccan law, using strict semantic retrieval.
 
@@ -44,6 +45,7 @@ AI assistant for legal questions based on Moroccan law, using strict semantic re
 
 - **[View Repository](#)**
 - 🎥 **[View Demo](#)**  
+
 
   
 ## 🛫 Airline Customer Service Q&A Bot  
@@ -60,6 +62,7 @@ A Retrieval-Augmented Generation (RAG) chatbot designed for airline customer sup
 - 🎥 **[View Demo](#)**   
 
 
+
 ## 🎬 Movie Discovery Agent *(New Project)*  
 - **Description**: Smart assistant that helps users discover new movies they haven’t seen yet, based on flexible, natural language queries.  
 - **Highlights**: User accounts, seen/unseen tracking, advanced filtering (e.g. "thrillers after 2020 with IMDb > 7"), and optional chatbot interface.  
@@ -67,7 +70,9 @@ A Retrieval-Augmented Generation (RAG) chatbot designed for airline customer sup
 - **[View Repository](#)** 
 - 🎥 **[View Demo](#)** 
 
+
 ---
+
 
 ## 🛠️ Skills
 Here are some of the tools and technologies I work with:
