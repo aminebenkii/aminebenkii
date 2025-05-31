@@ -18,7 +18,7 @@ I aim to leverage my skills to create impactful projects while sharing my learni
 
 Here are some of the projects I’m actively working on and showcasing:
 
-### ✈️ Flight Deals Assistant (LLM + APIs)
+## ✈️ Flight Deals Assistant (LLM + APIs)
 Conversational travel agent that finds the best flight options based on user preferences (dates, duration, round-trip, etc).
 
 - 🔍 Flexible date search via custom scraping engine
@@ -32,7 +32,7 @@ Conversational travel agent that finds the best flight options based on user pre
 - 🎥 **[View Demo](#)**  
 
 
-### ⚖️ Legal Chatbot (RAG + Vector DB)
+## ⚖️ Legal Chatbot (RAG + Vector DB)
 AI assistant for legal questions based on Moroccan law, using strict semantic retrieval.
 
 - 📚 Legal PDF scraping → text structuring → chunking + embedding
@@ -46,7 +46,7 @@ AI assistant for legal questions based on Moroccan law, using strict semantic re
 - 🎥 **[View Demo](#)**  
 
   
-### 🛫 Airline Customer Service Q&A Bot  
+## 🛫 Airline Customer Service Q&A Bot  
 A Retrieval-Augmented Generation (RAG) chatbot designed for airline customer support. Handles structured Q&A and multi-turn conversations to assist users efficiently.
 
 - 📦 FAQ chunking and vectorization with OpenAI
@@ -60,7 +60,7 @@ A Retrieval-Augmented Generation (RAG) chatbot designed for airline customer sup
 - 🎥 **[View Demo](#)**   
 
 
-### 🎬 Movie Discovery Agent *(New Project)*  
+## 🎬 Movie Discovery Agent *(New Project)*  
 - **Description**: Smart assistant that helps users discover new movies they haven’t seen yet, based on flexible, natural language queries.  
 - **Highlights**: User accounts, seen/unseen tracking, advanced filtering (e.g. "thrillers after 2020 with IMDb > 7"), and optional chatbot interface.  
 - **Tech Stack**: Python, FastAPI, SQL, TMDb + OMDb APIs, Docker.  
