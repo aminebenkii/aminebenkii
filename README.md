@@ -59,8 +59,8 @@ A Retrieval-Augmented Generation (RAG) chatbot designed for airline customer sup
 
 **Stack**: FastAPI · OpenAI · ChromaDB · Docker · AWS · GCP
 
-- **[View Repository](#)**
-- 🎥 **[View Demo](#)**   
+- **[View Repository](https://github.com/aminebenkii/airline-rag-customer-service)**
+- 🎥 **[View Demo](https://airline-chatbot-781069302485.europe-west9.run.app/)**   
 
 
 
