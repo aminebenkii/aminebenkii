@@ -28,8 +28,8 @@ Conversational travel agent that finds the best flight options based on user pre
 
 **Stack**: React · FastAPI · OpenAI · Docker · AWS · Google Flights Scraping
 
-- **[View Repository](#)**
-- 🎥 **[View Demo](#)**  
+- **[View Repository]([#](https://github.com/aminebenkii/best-flight-deals-assistant))**
+- 🎥 **[View Demo]([#](http://flight-sniper-frontend.s3-website.eu-north-1.amazonaws.com))**  
 
 
 
