@@ -1,76 +1,73 @@
 # 👋 Hi, I'm Amine — NLP & AI Engineer Building Useful AI Agents
 
-## 🌟 About Me
+## 🌍 About Me
 
-Hello! I’m a **hands-on Machine Learning and AI developer** working across two main areas:
+I’m a hands-on Machine Learning and AI developer working across two main areas:
 
-- 🧮 **Data Science & Predictive Modeling**: I solve real-world problems using regression, classification, and anomaly detection, building **clean, production-ready pipelines** that actually deliver results.  
+- **Data Science & Predictive Modeling**  
+  Solving real-world problems using regression, classification, and anomaly detection—building clean, production-ready pipelines that deliver actual value.
 
-- 🤖 **AI Agents & Chatbots**: I design and build intelligent assistants and **RAG-based systems**, handling everything from retrieval / Data Fetching logic to full deployment in real-world environments.
+- **AI Agents & Chatbots**  
+  Designing and deploying intelligent assistants and RAG-based systems, managing everything from retrieval logic to real-world deployment.
 
-I don’t just stop at coding models—I handle the entire lifecycle: **Dockerizing applications**, deploying them on **AWS, Azure or GCP**, and ensuring they run reliably in production.  
-
-I aim to leverage my skills to create impactful projects while sharing my learning journey.
+I cover the entire project lifecycle: dockerizing applications, deploying to AWS/Azure/GCP, and ensuring long-term reliability in production.
 
 ---
 
 ## 🚀 Selected Projects
 
-Here are some of the projects I’m actively working on and showcasing:
+### ✈️ Flight Deals Assistant · LLM + APIs  
+Conversational travel agent that finds optimal flight options based on user preferences.
 
-## ✈️ Flight Deals Assistant (LLM + APIs)
-Conversational travel agent that finds the best flight options based on user preferences (dates, duration, round-trip, etc).
+- Flexible date search via custom scraping engine  
+- LLM-powered parsing and control logic  
+- FastAPI backend with session handling and clean API  
+- Dockerized and deployed on AWS with CI/CD  
 
-- 🔍 Flexible date search via custom scraping engine
-- 🤖 LLM for user parsing and control logic
-- 🧱 FastAPI backend, session handling, and clean API
-- 🚀 Dockerized, deployed on AWS, ready for CI/CD
+**Stack:** React · FastAPI · OpenAI · Docker · AWS · Google Flights Scraping  
+🔗 [View Repository](https://github.com/aminebenkii/best-flight-deals-assistant)  
+🎥 [View Demo](http://flight-sniper-frontend.s3-website.eu-north-1.amazonaws.com)
 
-**Stack**: React · FastAPI · OpenAI · Docker · AWS · Google Flights Scraping
+---
 
-- <strong><a href="https://github.com/aminebenkii/best-flight-deals-assistant" target="_blank">View Repository</a></strong>  
-- 🎥 <strong><a href="http://flight-sniper-frontend.s3-website.eu-north-1.amazonaws.com" target="_blank">View Demo</a></strong>
-  
+### ⚖️ Legal Chatbot · RAG + Vector DB  
+AI assistant for legal questions based on Moroccan law, using semantic retrieval and chunked legal texts.
 
+- PDF scraping → text structuring → chunking + embedding  
+- RAG pipeline with vector search and prompt injection  
+- Multilingual: French + Darija support, session history, user auth  
+- Dockerized and deployed on AWS  
 
+**Stack:** FastAPI · OpenAI · ChromaDB · Docker · AWS  
+🔗 [View Repository](https://github.com/aminebenkii/legal-assistant-moroccan-law)  
+🎥 [View Demo](#) *(coming soon)*
 
-## ⚖️ Legal Chatbot (RAG + Vector DB)
-AI assistant for legal questions based on Moroccan law, using strict semantic retrieval.
+---
 
-- 📚 Legal PDF scraping → text structuring → chunking + embedding
-- 🧠 RAG pipeline: vector search + LLM prompt injection
-- 🔐 Session history, user auth, multilingual French/Darija support
-- 🚀 Dockerized, deployed on AWS, CI-ready
+### 🛫 Airline Customer Service Q&A Bot  
+RAG chatbot for airline customer support with structured Q&A and multi-turn flow.
 
-**Stack**: FastAPI · OpenAI · ChromaDB · Docker · AWS
+- FAQ chunking and vectorization  
+- Strict semantic retrieval and fast generation  
+- Modular FastAPI backend with context scoring  
+- Dockerized and deployed on AWS and GCP  
 
-- **[View Repository](#)**
-- 🎥 **[View Demo](#)**  
+**Stack:** FastAPI · OpenAI · ChromaDB · Docker · AWS · GCP  
+🔗 [View Repository](https://github.com/aminebenkii/airline-rag-customer-service)  
+🎥 [View Demo](https://airline-chatbot-781069302485.europe-west9.run.app/)
 
+---
 
-  
-## 🛫 Airline Customer Service Q&A Bot  
-A Retrieval-Augmented Generation (RAG) chatbot designed for airline customer support. Handles structured Q&A and multi-turn conversations to assist users efficiently.
+### 🎬 Movie Discovery Agent *(WIP)*  
+Smart assistant that helps users discover movies they haven’t seen, using natural language queries.
 
-- 📦 FAQ chunking and vectorization with OpenAI
-- 🎯 Strict retrieval and fast response generation
-- 🧩 Modular FastAPI backend with context scoring
-- 🚀 Deployed via Docker on AWS and GCP
+- Tracks seen/unseen movies with filters (e.g. "thrillers after 2020 with IMDb > 7")  
+- Optional chatbot interface, user accounts  
+- Uses TMDb + OMDb APIs  
 
-**Stack**: FastAPI · OpenAI · ChromaDB · Docker · AWS · GCP
-
-- **[View Repository](https://github.com/aminebenkii/airline-rag-customer-service)**
-- 🎥 **[View Demo](https://airline-chatbot-781069302485.europe-west9.run.app/)**   
-
-
-
-## 🎬 Movie Discovery Agent *(New Project)*  
-- **Description**: Smart assistant that helps users discover new movies they haven’t seen yet, based on flexible, natural language queries.  
-- **Highlights**: User accounts, seen/unseen tracking, advanced filtering (e.g. "thrillers after 2020 with IMDb > 7"), and optional chatbot interface.  
-- **Tech Stack**: Python, FastAPI, SQL, TMDb + OMDb APIs, Docker.  
-- **[View Repository](#)** 
-- 🎥 **[View Demo](#)** 
-
+**Stack:** Python · FastAPI · SQL · Docker  
+🔗 [View Repository](https://github.com/aminebenkii/movie-recommander-assistant)  
+🎥 [View Demo](#) *(coming soon)*
 
 ---
 
